@@ -1,0 +1,6 @@
+---
+tags:
+- associazione
+- nemico
+- vivo
+---
